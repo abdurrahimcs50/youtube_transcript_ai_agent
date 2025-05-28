@@ -1,7 +1,3 @@
-Here’s a complete, polished `README.md` file for your LangChain + Ollama-powered YouTube Transcript Summarizer project. It’s client- and GitHub-ready, with all the essentials — project intro, features, usage guide, and setup instructions.
-
----
-
 ````markdown
 # 🧠 YouTube Transcript Summarizer Agent with LangChain + Ollama
 
