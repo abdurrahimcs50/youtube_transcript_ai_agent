@@ -63,7 +63,7 @@ ollama run gemma3:1b
 You can run the script directly:
 
 ```bash
-python main.py
+python process_video.py
 ```
 
 By default, it processes this video:
@@ -136,7 +136,7 @@ MIT License. Use it freely in your own Gen AI experiments or freelance projects.
 
 ## 🤝 Contributing
 
-PRs are welcome! Open an issue or ping me on [LinkedIn](https://www.linkedin.com/in/abdurrahimcs50) if you want to collab.
+PRs are welcome! You can open an issue or reach out to me on [LinkedIn](https://www.linkedin.com/in/abdurrahimcs50) if you'd like to collaborate.
 
 ---
 
